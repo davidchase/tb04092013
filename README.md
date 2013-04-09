@@ -1,4 +1,6 @@
-tb04092013
+Spawn Forms
 ==========
 
-Spawning Form Module 
+Spawning Form Module with validator
+
+Version 1.0
