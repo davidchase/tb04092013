@@ -1,0 +1,31 @@
+/* Skeleton CSS */
+p {
+    margin:45px 0px;
+    padding:0;
+}
+#module_container {
+    margin:0 20px;
+}
+.module {
+    position:relative;
+}
+input[type="text"] {
+    display:block;
+    margin:5px 0px;
+}
+
+button {
+    cursor:pointer;
+}
+.formWrap {
+    background: #ccc;
+    padding: 10px;
+    width: 10.7em;
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+}
+.error {
+    background:#bf0000;
+}
