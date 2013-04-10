@@ -1,6 +1,6 @@
 /* Skeleton CSS */
 p {
-    margin:45px 0px;
+    margin:45px 0;
     padding:0;
 }
 #module_container {
@@ -11,8 +11,13 @@ p {
 }
 input[type="text"] {
     display:block;
-    margin:5px 0px;
+    margin:5px 0;
 }
+
+textarea {
+    width:10.5em;
+}
+
 
 button {
     cursor:pointer;
