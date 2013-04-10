@@ -34,7 +34,7 @@ generateForm = (e) ->
   $('.formWrap').remove();         
   $(e.target).parent().append form
        
-#Input values from placeholder data for IE9 <            
+#Input values from placeholder data for IE9 & lower      
 iePlaceholder = () ->
     if !Modernizr.input.placeholder
             $('input[type="text"]').each ->
@@ -65,7 +65,7 @@ validateEmail = (e) ->
      return false
               
 #Validate the form
-#Test both against original value in IE9 > and empty fields
+#Test both against original value in IE9 & lower and empty fields
 validateForm = (e) ->
               
     isValid = true
