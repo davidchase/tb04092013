@@ -7,7 +7,7 @@ Create a new instance of a form everytime you click the button.
 
 ### CSS class selectors
 
-`.module` static for the selectors.
+`.module` static parent for the button/triggers.
 
 `.request` for spawning the form.
 
