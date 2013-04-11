@@ -1,4 +1,4 @@
-Spawn Forms v1
+Spawn Forms v1.1
 ==========
 
 Spawning Form Module with validator.
