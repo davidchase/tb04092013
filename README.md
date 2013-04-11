@@ -21,3 +21,5 @@ The following object `formData = { "First Name*","Last Name*","E-mail*","Phone"}
 can be updated to add more fields and/or make the fields required by adding an `*`.
 
 If the `formData` object contains the keyword `Comments` it will show up on the form as a `textarea` field.
+
+Thats all you can now get it rolling with spawning as many forms as your server can allow :)
